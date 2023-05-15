@@ -11,5 +11,5 @@ This is the homepage of my Jekyll-powered site. Enjoy exploring!
 
 [About](/about/)
 
-<a href="/about/">About</a>
+
 
