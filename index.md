@@ -8,3 +8,5 @@ This is the homepage of my Jekyll-powered site. Enjoy exploring!
 ![Jekyll Logo](/path/to/jekyll-logo.png)
 
 [Learn more about Jekyll](https://jekyllrb.com/)
+
+[About](pumaatbay.github.io/pages/about/)
